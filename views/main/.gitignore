@@ -1,0 +1,10 @@
+﻿/node_modules
+/.tags
+/*.rar
+/public/images/*.psd
+*.psd
+/.env
+/Home-page
+.idea/
+yarn.lock
+.vscode/
