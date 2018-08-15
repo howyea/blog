@@ -8,7 +8,7 @@
   },
   "author": "ajiu <yhynew@126.com> (https://github.com/huiyuye)",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "body-parser": "^1.18.3",
     "cookies": "^0.7.1",
     "express": "^4.16.3",
